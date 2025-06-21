@@ -1,0 +1,22 @@
+{
+    "route_id": "R001",
+    "driver": {
+        "id": 101,
+        "name": "Kamil",
+        "vehicle": "Ford Transit"
+    },
+    "packages": [
+        {
+            "id": 1,
+            "sender": "Jan Kowalski",
+            "receiver": "Anna Nowak",
+            "weight": 2.5
+        },
+        {
+            "id": 2,
+            "sender": "Firma A",
+            "receiver": "Klient B",
+            "weight": 5.0
+        }
+    ]
+}

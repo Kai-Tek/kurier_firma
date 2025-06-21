@@ -1,0 +1,17 @@
+{
+    "packages": [
+        {
+            "id": 1,
+            "sender": "Jan",
+            "receiver": "Ola",
+            "weight": 2.0
+        }
+    ],
+    "drivers": [
+        {
+            "id": 1,
+            "name": "Kuba",
+            "vehicle": "Opel"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "packages": [
+        {
+            "package_id": 1,
+            "sender": "Jan Kowalski",
+            "receiver": "Anna Nowak",
+            "weight": 2.5
+        },
+        {
+            "package_id": 2,
+            "sender": "Maksym",
+            "receiver": "Kajetan",
+            "weight": 5.0
+        },
+        {
+            "package_id": 1,
+            "sender": "Kajetab",
+            "receiver": "maksymn",
+            "weight": 10.0
+        },
+        {
+            "package_id": 1,
+            "sender": "Kajetan",
+            "receiver": "Maksym",
+            "weight": 12.0
+        },
+        {
+            "package_id": 2,
+            "sender": "Januszex",
+            "receiver": "Areczek-pol",
+            "weight": 50.0
+        }
+    ],
+    "drivers": [
+        {
+            "driver_id": 101,
+            "name": "Tomasz",
+            "vehicle": "Mercedes Sprinter"
+        },
+        {
+            "driver_id": 1,
+            "name": "Bogdan",
+            "vehicle": "Ford"
+        }
+    ]
+}
